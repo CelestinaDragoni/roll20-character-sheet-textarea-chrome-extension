@@ -21,3 +21,6 @@ Waiting Developer Approval
 - Click [Load Unpacked] at the top left of the page.
 - Open the folder with the extension in it.
 - Enjoy.
+
+## Screenshot
+![Picture](screenshot.png)
