@@ -8,10 +8,6 @@ Character Sheets Tested With:
 
 Other character sheets might work too, give it a try. :)
 
-Simply adds a CSS rule to enlarge text areas on Roll20's character sheets.
-
-Need access to the character sheet to add the style to the page.
-
 ## Chrome Install:
 
 Waiting Developer Approval
