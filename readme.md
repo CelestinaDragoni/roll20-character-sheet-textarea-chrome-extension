@@ -1,3 +1,5 @@
+![Picture](icon96.png)
+
 # Roll20 Character Sheet Textarea Expansion Chrome Extension
 
 This makes textareas (feats, spells, etc.) for some Roll20 character sheets larger so you can have an easier time editing.
