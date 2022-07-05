@@ -8,7 +8,7 @@ Character Sheets Tested With:
 
 Other character sheets might work too, give it a try. :)
 
-## Chrome Install:
+## Chrome Web Store Install
 
 Waiting Developer Approval
 
