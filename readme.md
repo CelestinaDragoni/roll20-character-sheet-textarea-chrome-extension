@@ -12,7 +12,7 @@ Other character sheets might work too, give it a try. :)
 
 ## Chrome Web Store Install
 
-Waiting Developer Approval
+Install Link: https://chrome.google.com/webstore/detail/roll20-character-sheet-te/gidankbjdhlnnijiepbefkkanhcnimog
 
 ## Manual Install
 
